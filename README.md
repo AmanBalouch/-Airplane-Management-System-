@@ -29,7 +29,7 @@ Airplane-Management-System/
 │── README.md                      # Project documentation
 ⚙️ How to Run
 1. Clone the repository
-git clone https://github.com/your-username/Airplane-Management-System.git
+git clone  https://github.com/AmanBalouch/-Airplane-Management-System-.git
 cd Airplane-Management-System
 2. Compile the program
 g++ main.cpp -o airplane
